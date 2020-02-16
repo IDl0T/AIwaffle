@@ -1,3 +1,5 @@
+# See [AIwaffle/AIwaffle](https://github.com/AIwaffle/AIwaffle) for the newest version
+
 # AIwaffle
 **an AI Learning Platform completely made by high school students**  
 Total Clicks: http://106.15.39.117:8080/api/statistics/total
