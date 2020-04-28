@@ -1,4 +1,5 @@
-# See [AIwaffle/AIwaffle](https://github.com/AIwaffle/AIwaffle) for the newest version
+# This repo is obsolete,
+# Please move to [AIwaffle/AIwaffle](https://github.com/AIwaffle/AIwaffle)
 
 # AIwaffle
 **an AI Learning Platform completely made by high school students**  
